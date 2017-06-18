@@ -1,0 +1,9 @@
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldView.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/HelloWorldResources.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/view/client/jso/HelloWorldViewOverlay.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/inject/HelloWorldViewExampleGinModule.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/HelloWorldViewExampleExtension.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/action/HelloWorldAction.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewImpl.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/common/Constants.java
+/Users/liwp/Downloads/che-5.5.0/samples/sample-plugin-embedjs/che-sample-plugin-embedjs-ide/src/main/java/org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewPresenter.java

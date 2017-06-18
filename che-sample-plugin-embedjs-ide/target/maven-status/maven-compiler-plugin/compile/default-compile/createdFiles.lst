@@ -1,0 +1,14 @@
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewPresenter$MyContentInitializedHandler.class
+org/eclipse/che/plugin/embedjsexample/ide/inject/HelloWorldViewExampleGinModule.class
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewImpl.class
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewPresenter$1.class
+org/eclipse/che/plugin/embedjsexample/ide/HelloWorldResources.class
+org/eclipse/che/plugin/embedjsexample/ide/HelloWorldViewExampleExtension.class
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewPresenter.class
+org/eclipse/che/plugin/embedjsexample/ide/action/HelloWorldAction.class
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldView$ActionDelegate.class
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldView.class
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewPresenter$2.class
+org/eclipse/che/plugin/embedjsexample/ide/common/Constants.class
+org/eclipse/che/plugin/embedjsexample/ide/view/HelloWorldViewImpl$HelloWorldViewImplUiBinder.class
+org/eclipse/che/plugin/embedjsexample/ide/view/client/jso/HelloWorldViewOverlay.class
